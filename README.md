@@ -32,6 +32,6 @@ The goal of this challenge is to code a RESTFUL GET endpoint at /users/<name> th
  * Debugger is active!
 - This means that everything has been successful and you are ready to retrieve user info.
 3) We take the http link that they have provided in the message and paste onto our browser.
-4) Once we paste it, we manually type in /users/<name> with name being whichever Employee you'd wish to view the job title and job description of.
+4) Once we paste it, we manually type in /users/name with name being whichever Employee you'd wish to view the job title and job description of.
 Example: http://127.0.0.1:5000/users/kyle (This should return Kyle's job title and job description!)
 5) This can be done as many times as you wish manually. 
